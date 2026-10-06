@@ -1,0 +1,5 @@
+"contrast","chisq","df","p"
+"stage_grade_tas vs stage_grade",44.0659023047174,1,3.17503888894809e-11
+"full vs clinical",42.772142576687,1,6.15017725987569e-11
+"grade added to age + sex + stage",13.2597586974573,2,0.00132032237498423
+"grade added to TAS + age + sex + stage",1.2225974724995,2,0.542645657645447

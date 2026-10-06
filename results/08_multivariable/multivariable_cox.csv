@@ -1,0 +1,8 @@
+"model","term","HR","lo","hi","p"
+"Univariate","TAS",1.974,1.729,2.254,9.64e-24
+"Multivariable","TAS",1.736,1.502,2.007,8.83e-14
+"Multivariable","AGE",1.033,1.019,1.048,7.07e-06
+"Multivariable","SEXMALE",0.978,0.709,1.349,0.89
+"Multivariable","STAGEII",1.232,0.643,2.359,0.529
+"Multivariable","STAGEIII",1.903,1.232,2.938,0.0037
+"Multivariable","STAGEIV",5.331,3.546,8.015,8.63e-16

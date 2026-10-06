@@ -1,0 +1,4 @@
+"contrast","n","detail","p"
+"tumor_vs_rest_cells_mean",20215,"mean tumor 0.0102 vs rest 0.0115; median 0.0000 vs 0.0000",0.231630995793187
+"tumor_vs_rest_patient_means",7,"3/7 patients tumor mean higher",0.352542137499713
+"auc_vs_module_spearman",20215,"rho 0.634",0

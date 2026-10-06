@@ -1,0 +1,5 @@
+"stage","n","n_low","n_high","km_logrank_p"
+"Stage I",247,151,96,0.00352
+"Stage II",54,27,27,0.0978
+"Stage III",124,50,74,0.00212
+"Stage IV",83,26,57,3.46e-05

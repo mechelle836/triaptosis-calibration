@@ -1,0 +1,2 @@
+n_sets,kirc_top_frac,kirc_pass_soft_frac,kirc_nsig_median,kirc_nsig_ge_obs_frac,kirc_logrank_le_obs_frac,n_soft_pass_median,obs_kirc_nsig,obs_kirc_logrank
+200,0.53,0.87,11,0,0.555,5,18,1.12369285799607e-05
