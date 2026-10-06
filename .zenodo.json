@@ -1,0 +1,25 @@
+{
+  "title": "Random-gene calibration of pan-cancer cell-death gene-set screens",
+  "description": "<p>A reusable protocol for calibrating any mechanism-defined gene set against random gene sets, and the results of applying it to a 21-gene triaptosis set across 32 TCGA cancer types.</p><p><strong>Headline methodological result:</strong> an uncalibrated pan-cancer screen ranks clear cell renal cell carcinoma (ccRCC) first for 53% of random 21-gene sets. Only the per-gene prognostic yield discriminates true signal: ccRCC is the sole cancer among 20 hard-pass cancers where triaptosis genes exceed the random distribution (18/21 Cox-significant genes; no random set above 17; empirical P = 0/200).</p>",
+  "upload_type": "software",
+  "creators": [
+    {
+      "name": "Chu, Xiaolin",
+      "affiliation": "Putuo Hospital, Shanghai University of Traditional Chinese Medicine, Shanghai, China"
+    },
+    {
+      "name": "Zhu, Xiaodan",
+      "affiliation": "Putuo Hospital, Shanghai University of Traditional Chinese Medicine, Shanghai, China"
+    }
+  ],
+  "license": "MIT",
+  "keywords": [
+    "triaptosis",
+    "null model",
+    "pan-cancer screening",
+    "prognostic signature",
+    "random gene sets",
+    "reproducibility"
+  ],
+  "access_right": "open"
+}
