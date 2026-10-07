@@ -28,13 +28,18 @@ P = 0/200).
 | `code/38–38b` | **Random-set calibration of the screen (200 sets)** |
 | `code/07_triaptosis_null.R` | **Signature-level null distribution (195 sets)** |
 | `code/34_pcd_benchmark.R` | **Ferroptosis/apoptosis/disulfidptosis comparison** |
-| `code/36_enet_path.R` | Elastic-net TAS construction (α=0.5, 10-fold CV) |
+| `code/36_enet_path.R` | Elastic-net TRRS construction (α=0.5, 10-fold CV) |
+| `code/44_logscale_sensitivity.R` | Log-scale sensitivity analysis (linear vs log2(RSEM+1)) |
+| `code/45_continuous_yield_null.R` | Continuous-yield null (mean/median -log10 P, 200 sets) |
+| `code/46_metric_panel_null.R` | Multi-metric calibration panel, KIRC (Fisher/Stouffer/ACAT) |
+| `code/47_metric_panel_all_cancers.R` | Multi-metric panel across all 20 hard-pass cancers |
+| `code/48_gene_drivers_by_cancer.R` | Per-gene driver decomposition (KIRC/OV/COADREAD/LUSC) |
 | `code/07_model_validation.R` | Out-of-fold IPCW validation |
 | `code/09–12, 33` | External validation (E-MTAB-1980, CPTAC-3, CheckMate) |
 | `code/13, 32, 39` | Stage/grade/driver-mutation adjustment |
 | `code/06, 22, 05` | Immune profiling and IMmotion150 ICI analysis |
 | `code/19–30` | Single-cell and spatial transcriptomics (Supplementary) |
-| `results/01_screen/` | Calibration outputs, per-cancer null distributions |
+| `results/01_screen/` | Calibration outputs, per-cancer null distributions, metric panels, gene-driver table |
 | `results/05_null/` | Signature-level null results and PCD benchmark |
 
 ## Reproducing the calibration
